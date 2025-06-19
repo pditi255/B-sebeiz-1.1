@@ -1,10 +1,8 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
-
 // Statische Dateien bereitstellen (z. B. HTML, CSS, JS, Töne)
 app.use(express.static('public'));
-
 // Server starten
 app.listen(port, () => {
   console.log(`Server läuft auf Port ${port}`);
