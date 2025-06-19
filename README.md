@@ -1,1 +1,1 @@
-# B-sebeiz-1.1
+# Bäsebeiz v1.1 – mit Menüpflege, Statussystem & Rapport

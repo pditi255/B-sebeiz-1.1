@@ -1,0 +1,1 @@
+// JavaScript-Logik mit Status und Menüpflege
