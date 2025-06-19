@@ -21,3 +21,20 @@ Ein einfaches digitales Bestellsystem für Gastronomiebetriebe mit Fokus auf Sel
 4. Rapportseite über `/rapport.html`
 
 ## 📁 Projektstruktur
+├── index.html         → Gästeansicht (Bestellen)
+├── admin.html         → Küchenansicht + Menüpflege
+├── rapport.html       → Tagesauswertung
+├── menu.json          → Speiseangebot & Preise
+├── script.js          → Logik & Datenverarbeitung
+├── styles.css         → Layout & Design
+├── server.js          → Express-Server
+└── sounds/            → Audio-Benachrichtigungen
+
+## 🛡️ Sicherheit
+
+- Rapport-Zugriff nur mit Code `885700`
+- Keine Benutzerdaten gespeichert
+
+---
+
+> Entwickelt für einfache Anwendungen z.B. in Vereinsbeizen, Pop-Up-Restaurants oder Events.
